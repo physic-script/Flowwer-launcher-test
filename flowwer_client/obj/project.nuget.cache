@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vr/kjHMj4Ds=",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\flowwer_client\\flowwer_client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\cmllib.core\\4.1.0\\cmllib.core.4.1.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\cmllib.core.auth.microsoft\\3.4.0\\cmllib.core.auth.microsoft.3.4.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\cmllib.core.commons\\4.0.0\\cmllib.core.commons.4.0.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\lzma-sdk\\19.0.0\\lzma-sdk.19.0.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\xboxauthnet\\3.1.0\\xboxauthnet.3.1.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\xboxauthnet.game\\1.5.0\\xboxauthnet.game.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

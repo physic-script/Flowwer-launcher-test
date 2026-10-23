@@ -1,0 +1,39 @@
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Debug\net10.0-windows\flowwer_client.exe
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Debug\net10.0-windows\flowwer_client.deps.json
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Debug\net10.0-windows\flowwer_client.runtimeconfig.json
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Debug\net10.0-windows\flowwer_client.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Debug\net10.0-windows\flowwer_client.pdb
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.AssemblyInfoInputs.cache
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.AssemblyInfo.cs
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.csproj.CoreCompileInputs.cache
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\refint\flowwer_client.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.pdb
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.genruntimeconfig.cache
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\ref\flowwer_client.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.Form1.resources
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.Properties.Resources.resources
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.csproj.GenerateResource.cache
+C:\Users\dionj\AppData\Local\Temp\claude\C--Users-dionj\91a325ad-5eac-4a47-9210-4e298e491522\scratchpad\testbuild\flowwer_client.exe
+C:\Users\dionj\AppData\Local\Temp\claude\C--Users-dionj\91a325ad-5eac-4a47-9210-4e298e491522\scratchpad\testbuild\flowwer_client.deps.json
+C:\Users\dionj\AppData\Local\Temp\claude\C--Users-dionj\91a325ad-5eac-4a47-9210-4e298e491522\scratchpad\testbuild\flowwer_client.runtimeconfig.json
+C:\Users\dionj\AppData\Local\Temp\claude\C--Users-dionj\91a325ad-5eac-4a47-9210-4e298e491522\scratchpad\testbuild\flowwer_client.dll
+C:\Users\dionj\AppData\Local\Temp\claude\C--Users-dionj\91a325ad-5eac-4a47-9210-4e298e491522\scratchpad\testbuild\flowwer_client.pdb
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\scrolltest\flowwer_client.exe
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\scrolltest\flowwer_client.deps.json
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\scrolltest\flowwer_client.runtimeconfig.json
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\scrolltest\flowwer_client.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\scrolltest\flowwer_client.pdb
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Debug\net10.0-windows\flowwer_.D8E3EC7E.Up2Date
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.csproj.AssemblyReference.cache
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.Form1.resources
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.Properties.Resources.resources
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.csproj.GenerateResource.cache
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.GeneratedMSBuildEditorConfig.editorconfig
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.AssemblyInfoInputs.cache
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.AssemblyInfo.cs
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.csproj.CoreCompileInputs.cache
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.dll
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\refint\flowwer_client.dll
+d:\Desktop\flowwer_client\obj\Debug\net10.0-windows\flowwer_client.pdb

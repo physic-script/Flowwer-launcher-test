@@ -1,0 +1,64 @@
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.exe
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.deps.json
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.runtimeconfig.json
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.pdb
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.AssemblyInfoInputs.cache
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.AssemblyInfo.cs
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.csproj.CoreCompileInputs.cache
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\refint\flowwer_client.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.pdb
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.genruntimeconfig.cache
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\ref\flowwer_client.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.Form1.resources
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.Properties.Resources.resources
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.csproj.GenerateResource.cache
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\CmlLib.Core.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\CmlLib.Core.Auth.Microsoft.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\CmlLib.Core.Commons.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\SevenZip.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Web.WebView2.Core.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\ICSharpCode.SharpZipLib.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\XboxAuthNet.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\XboxAuthNet.Game.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\bin\Release\net10.0-windows\win-x64\WebView2Loader.dll
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.csproj.AssemblyReference.cache
+C:\Users\dionj\Documents\minecraft me\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_.D8E3EC7E.Up2Date
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.csproj.AssemblyReference.cache
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.Form1.resources
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.Properties.Resources.resources
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.csproj.GenerateResource.cache
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.AssemblyInfoInputs.cache
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.AssemblyInfo.cs
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.csproj.CoreCompileInputs.cache
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.dll
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\refint\flowwer_client.dll
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.pdb
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.exe
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.deps.json
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.runtimeconfig.json
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\flowwer_client.pdb
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\CmlLib.Core.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\CmlLib.Core.Auth.Microsoft.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\CmlLib.Core.Commons.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\SevenZip.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Web.WebView2.Core.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Web.WebView2.WinForms.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\Microsoft.Web.WebView2.Wpf.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\ICSharpCode.SharpZipLib.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\XboxAuthNet.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\XboxAuthNet.Game.dll
+D:\Desktop\flowwer_client\bin\Release\net10.0-windows\win-x64\WebView2Loader.dll
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_.D8E3EC7E.Up2Date
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\flowwer_client.genruntimeconfig.cache
+D:\Desktop\flowwer_client\obj\Release\net10.0-windows\win-x64\ref\flowwer_client.dll
